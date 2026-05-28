@@ -416,7 +416,7 @@
             ],
             "properties": {
                 "hardwareProfile": {
-                    "vmSize": "Standard_B2s"
+                    "vmSize": "Standard_DC1ds_v3"
                 },
                 "storageProfile": {
                     "imageReference": {
@@ -468,7 +468,7 @@
             ],
             "properties": {
                 "hardwareProfile": {
-                    "vmSize": "Standard_B2s"
+                    "vmSize": "Standard_DC1ds_v3"
                 },
                 "storageProfile": {
                     "imageReference": {
