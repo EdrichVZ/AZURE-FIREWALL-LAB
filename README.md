@@ -19,3 +19,12 @@ Demonstrate how to deploy and configure Azure Firewall to secure network traffic
 - Network Security Concepts
 - DNS Configuration
 - Remote Desktop (RDP)
+
+## Tasks:
+- Use a template to deploy the lab environment.
+- Deploy an Azure firewall.
+- Create a default route.
+- Configure an application rule.
+- Configure a network rule.
+- Configure DNS servers.
+- Test the firewall.
