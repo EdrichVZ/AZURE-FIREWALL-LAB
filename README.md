@@ -9,3 +9,13 @@ Demonstrate how to deploy and configure Azure Firewall to secure network traffic
 - Configure custom DNS settings
 - Test outbound filtering behavior
 - Validate allowed and denied traffic
+
+## Technologies Used:
+- Microsoft Azure
+- Azure Firewall
+- Azure Virtual Network (VNet)
+- Route Tables (UDR)
+- Azure Virtual Machines
+- Network Security Concepts
+- DNS Configuration
+- Remote Desktop (RDP)
