@@ -422,7 +422,7 @@
                     "imageReference": {
                         "publisher": "MicrosoftWindowsServer",
                         "offer": "WindowsServer",
-                        "sku": "2016-Datacenter",
+                        "sku": "2022-datacenter-g2",
                         "version": "latest"
                     },
                     "osDisk": {
@@ -431,7 +431,7 @@
                         "createOption": "FromImage",
                         "caching": "ReadWrite",
                         "managedDisk": {
-                            "storageAccountType": "Premium_LRS"
+                            "storageAccountType": "StandardSSD_LRS"
                            
                         },
                         "diskSizeGB": 127
@@ -474,7 +474,7 @@
                     "imageReference": {
                         "publisher": "MicrosoftWindowsServer",
                         "offer": "WindowsServer",
-                        "sku": "2016-Datacenter",
+                        "sku": "2022-datacenter-g2",
                         "version": "latest"
                     },
                     "osDisk": {
@@ -483,7 +483,7 @@
                         "createOption": "FromImage",
                         "caching": "ReadWrite",
                         "managedDisk": {
-                            "storageAccountType": "Premium_LRS"
+                            "storageAccountType": "StandardSSD_LRS"
                          
                         },
                         "diskSizeGB": 127
